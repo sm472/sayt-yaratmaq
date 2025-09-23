@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    gap: 56px;
+    padding: 29.5px;
+    margin-left: auto;
+    text-decoration: none;
+    color: #36485c;
+    
+    
+}
+
+
+
+
+.text a{
+    text-decoration: none;
+    
+}
+.right{
+    margin-left: auto;
+    
+
+}
+.a{
+    color: #36485c;
+    text-decoration: none;
+}
+
+
+
